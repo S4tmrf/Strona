@@ -57,20 +57,18 @@ article h1 {
     border-bottom: 4px solid black;
 }
 
-img.right {
+img.left {
     float: left;
-    margin: -15px 10px 10px 700px;
-    width: 25%;
-    border-radius: 50px 50px;
-}
-
-img.front {
-    float: left;
-    margin: 0px 10px 10px 0px;
+    margin: 10px 10px 10px 10px;
     width: 30%;
-    border-radius: 50px 50px;
 }
 
+article p {
+    text-align: justify;
+    line-height: 20px;
+    font-size: 15px;
+    padding: 5px 0;
+}
 iframe {
     width: 38%;
     margin: 100px 0px 00px -1320px;
